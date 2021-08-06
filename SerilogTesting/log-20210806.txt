@@ -1,0 +1,35 @@
+2021-08-06 11:15:34.387 +10:00 [INF] Starting up
+2021-08-06 11:15:35.670 +10:00 [INF] Warning in AppHost.
+2021-08-06 11:15:35.775 +10:00 [INF] Initializing Application SerilogTesting took 225.3262ms. No errors detected.
+2021-08-06 11:15:35.795 +10:00 [INF] Warning in Startup.Configure
+2021-08-06 11:18:42.726 +10:00 [INF] Starting up
+2021-08-06 11:18:43.815 +10:00 [INF] Warning in AppHost.
+2021-08-06 11:18:43.920 +10:00 [INF] Initializing Application SerilogTesting took 221.97ms. No errors detected.
+2021-08-06 11:18:43.939 +10:00 [INF] Warning in Startup.Configure
+2021-08-06 11:18:44.131 +10:00 [INF] Now listening on: https://localhost:5001
+2021-08-06 11:18:44.134 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-06 11:18:44.134 +10:00 [INF] Hosting environment: Development
+2021-08-06 11:18:44.135 +10:00 [INF] Content root path: C:\projects\Testing\SerilogTesting\SerilogTesting
+2021-08-06 11:18:44.652 +10:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-08-06 11:18:44.702 +10:00 [INF] HTTP GET / responded 304 in 36.4452 ms
+2021-08-06 11:18:44.722 +10:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 304 - text/html 72.1274ms
+2021-08-06 11:18:44.741 +10:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/servicestack-client.js - -
+2021-08-06 11:18:44.745 +10:00 [INF] HTTP GET /js/servicestack-client.js responded 304 in 3.1130 ms
+2021-08-06 11:18:44.746 +10:00 [INF] Request finished HTTP/2 GET https://localhost:5001/js/servicestack-client.js - - - 304 - text/javascript 5.4988ms
+2021-08-06 11:18:44.754 +10:00 [INF] Request starting HTTP/2 GET https://localhost:5001/json/reply/Hello?name=World application/json -
+2021-08-06 11:18:44.935 +10:00 [INF] HTTP GET /json/reply/Hello?name=World responded 200 in 180.4953 ms
+2021-08-06 11:18:44.937 +10:00 [INF] Request finished HTTP/2 GET https://localhost:5001/json/reply/Hello?name=World application/json - - 200 - application/json;+charset=utf-8 183.7771ms
+2021-08-06 11:19:08.697 +10:00 [INF] Starting up
+2021-08-06 11:19:09.776 +10:00 [INF] Warning in AppHost.
+2021-08-06 11:19:09.875 +10:00 [INF] Initializing Application SerilogTesting took 215.0822ms. No errors detected.
+2021-08-06 11:19:09.894 +10:00 [INF] Warning in Startup.Configure
+2021-08-06 11:19:10.079 +10:00 [INF] Now listening on: https://localhost:5001
+2021-08-06 11:19:10.080 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-06 11:19:10.081 +10:00 [INF] Hosting environment: Development
+2021-08-06 11:19:10.082 +10:00 [INF] Content root path: C:\projects\Testing\SerilogTesting\SerilogTesting
+2021-08-06 11:19:10.669 +10:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/servicestack-client.js - -
+2021-08-06 11:19:10.723 +10:00 [INF] HTTP GET /js/servicestack-client.js responded 304 in 39.9974 ms
+2021-08-06 11:19:10.744 +10:00 [INF] Request finished HTTP/2 GET https://localhost:5001/js/servicestack-client.js - - - 304 - text/javascript 76.6668ms
+2021-08-06 11:19:10.758 +10:00 [INF] Request starting HTTP/2 GET https://localhost:5001/json/reply/Hello?name=World application/json -
+2021-08-06 11:19:10.937 +10:00 [INF] HTTP GET /json/reply/Hello?name=World responded 200 in 178.6766 ms
+2021-08-06 11:19:10.940 +10:00 [INF] Request finished HTTP/2 GET https://localhost:5001/json/reply/Hello?name=World application/json - - 200 - application/json;+charset=utf-8 182.2503ms
